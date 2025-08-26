@@ -1,0 +1,10 @@
+[
+  {
+    "name": "uYouPlus",
+    "bundle_identifier": "com.qnblackcat.uYouPlus",
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/uYouPlus.ipa",
+    "size": 12345678,
+    "icon_url": "https://raw.githubusercontent.com/YourUsername/YourRepo/main/uYouIcon.png"
+  }
+]
