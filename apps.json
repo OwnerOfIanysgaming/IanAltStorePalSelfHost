@@ -1,9 +1,35 @@
-[
-  {
-    "name": "Youtube Premium - Cracked by Ianys",
-    "bundle_identifier": "com.google.ios.youtube.W947VV2CJ3",
-    "version": "1.0.0",
-    "url": "https://files.catbox.moe/wytbhh.ipa",
-    "size": 115997703
-  }
-]
+{
+  "name": "Ianys' Apps",
+  "iconURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/YouTube_social_white_square_%282017%29.svg",
+  "website": "https://github.com/Ianys/uYouPlus",
+  "identifier": "com.ianys.altstore",
+  "tintColor": "#FF0000",
+  "featuredApps": [
+    "com.google.ios.youtube.W947VV2CJ3"
+  ],
+  "apps": [
+    {
+      "name": "Youtube Premium - Cracked by Ianys",
+      "bundleIdentifier": "com.google.ios.youtube.W947VV2CJ3",
+      "developerName": "Ianys",
+      "subtitle": "",
+      "localizedDescription": "uYouPlus – Modified YouTube app with premium features.",
+      "iconURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/YouTube_social_white_square_%282017%29.svg",
+      "tintColor": "#FF0000",
+      "category": "entertainment",
+      "screenshots": [],
+      "beta": false,
+      "versions": [
+        {
+          "version": "1.0.0",
+          "date": "2025-08-26T00:00:00.000Z",
+          "localizedDescription": "First release of uYouPlus",
+          "downloadURL": "https://files.catbox.moe/wytbhh.ipa",
+          "size": 115997703,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.0.0"
+        }
+      ]
+    }
+  ]
+}
