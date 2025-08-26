@@ -19,6 +19,7 @@
       "category": "entertainment",
       "screenshots": [],
       "beta": false,
+      "marketplaceID": "1234567890",
       "versions": [
         {
           "version": "1.0.0",
