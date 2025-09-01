@@ -7,14 +7,13 @@
   "apps": [
     {
       "name": "uYouPlus",
-      "bundleIdentifier": "com.google.ios.youtube.W947VV2CJ3",
+      "bundleIdentifier": "com.ianys.uYouPlus",
       "developerName": "Ianys",
       "subtitle": "",
       "localizedDescription": "Modified YouTube app with premium features.",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/7/7c/YouTube_social_white_square_%282017%29.svg",
       "tintColor": "#FF0000",
       "category": "entertainment",
-      
       "beta": false,
       "versions": [
         {
